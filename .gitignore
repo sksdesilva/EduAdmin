@@ -1,0 +1,12 @@
+target/
+*.iml
+.idea/
+.vscode/
+
+# Ignore log files
+log/
+*.log
+
+# Ignore Maven build files
+mvnw.cmd
+mvnw
